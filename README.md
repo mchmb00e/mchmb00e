@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently study first year of Computer Science in USACH.<br>⌨️ Web Developer.<br>🖌️ Web Design.<br>💻 JavaScript, PHP and MySQL.
+📚 I'm currently study 2nd year of Computer Science in USACH.<br>⌨️ Web Developer.<br>🖌️ Web Design.<br>💻 JavaScript, PHP and MySQL.
 
 
 ## 🌐 Socials:
