@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 I'm Miguel, I'm 19 years old and i live in Santiago, Chile. <br>🎓 I'm 2nd year student of Computer Science in University of Santiago de Chile.<br>💻 I like web development and researching mathematics and computing algorithms.<br><br>☕️ I love cats, coffee and snupi :D
+💫 I'm Miguel, I'm 19 years old and i live in Santiago, Chile. <br>🎓 I'm 3rd year student of Computer Science in University of Santiago de Chile.<br>💻 I like web development and researching mathematics and computing algorithms.<br><br>☕️ I love cats, coffee and snupi :D
 
 
 ## 🌐 Socials:
